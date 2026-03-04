@@ -1,2 +1,2 @@
-# Python
+# Python-Data-Analytics
 All Python Practices
